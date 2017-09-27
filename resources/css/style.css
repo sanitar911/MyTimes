@@ -17,6 +17,9 @@ header {
   display: inline-block;
   padding: 10px 20px;
 }
+.navigation a{
+    color: black;
+}
 .logo {
   display: flex;
   flex-grow: 1;
@@ -26,4 +29,11 @@ header {
 .logo span {
   color: MediumAquamarine;
   padding: 10px 20px;
+}
+div {
+  border: 1px solid black;
+}
+/*Body*/
+.mainbody {
+  display: flex;
 }
